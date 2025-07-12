@@ -17,4 +17,5 @@ This project implements two numerical root-finding methods — **Bisection Metho
 Install required packages:
 
 ```bash
-pip install -r requirements.txt
+
+pip install sympy matplotlib numpy
